@@ -1,2 +1,3 @@
 # hello-world
-This is my first project .
+This is Harsimran Singh .
+I am a student of Conestoga College in waterloo .
